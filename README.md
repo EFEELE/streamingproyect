@@ -1,2 +1,8 @@
 # streamingproyect
 TRIZKEL
+
+## AUDIO
+  ==
+
+## VIDEO
+  ==
